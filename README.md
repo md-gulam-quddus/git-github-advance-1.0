@@ -1,4 +1,4 @@
-# LEARNIG GIT AND GITHUB BASIC 1.1
+# LEARNIG GIT AND GITHUB Advance 1.0
 
 ## Instructions
 
